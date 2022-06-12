@@ -1,0 +1,21 @@
+html {
+    background-color: rgb(213, 255, 241);
+}
+
+p {
+    column-count: 3;
+    column-rule: rgb(102, 255, 0) solid 2px;
+    column-gap: 40px;
+}
+
+p::selection {
+    background-color: rgb(19, 46, 170);
+    color: rgb(133, 201, 178);
+}
+
+h1 {
+    color: rgb(138, 130, 20)
+}
+
+h1:hover {
+    color: rgb(56, 61, 83)

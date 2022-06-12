@@ -1,0 +1,11 @@
+div {
+    margin: 30px;
+    background-color: rgb(236, 255, 127);
+    height: 100px;
+    width: 100px;
+    outline: rgb(89, 192, 240) dotted 10px;
+}
+
+div:hover {
+    outline: black dotted 5px;
+}

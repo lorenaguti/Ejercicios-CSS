@@ -1,0 +1,20 @@
+html {
+    background-color: rgb(76, 182, 231);
+}
+
+div {
+    margin: 40px auto 0 auto;
+    width: 50%;
+    border: black solid 1px;
+    border-radius: 2px;
+    padding: 5px 10px;
+    background-color: rgb(241, 71, 156);
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}

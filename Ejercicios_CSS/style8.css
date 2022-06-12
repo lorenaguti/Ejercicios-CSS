@@ -1,0 +1,8 @@
+div {
+    margin: 40px;
+    padding: 40px;
+    border-left: black double 5px;
+    border-right: blue dashed 10px;
+    border-top: green dotted 5px;
+    border-bottom: red solid 3px;
+}

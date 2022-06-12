@@ -1,0 +1,38 @@
+html {
+    background-color: aquamarine;
+}
+
+table,
+td,
+thead,
+tbody {
+    border: black solid 1px;
+    text-align: center;
+    margin: auto;
+}
+
+table {
+    border-width: 3px;
+    border-top-left-radius: 1.5em;
+    border-top-right-radius: 1.5em;
+    background-color: pink;
+    padding-top: 5px;
+}
+
+
+caption {
+    margin: auto;
+    width: fit-content;
+}
+
+tbody td {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+}
+
+tfoot td,
+caption {
+    border-width: 0px;
+    background-color: rgb(178, 211, 238);
+}

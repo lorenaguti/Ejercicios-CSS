@@ -1,0 +1,41 @@
+div {
+    border: black solid 2px;
+}
+
+.main-div {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.corner {
+    position: fixed;
+    width: 20px;
+    height: 20px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.topleft {
+    top: 10px;
+    left: 10px;
+}
+
+.topright {
+    top: 10px;
+    left: 210px;
+}
+
+.botleft {
+    top: 210px;
+    left: 10px;
+}
+
+.botright {
+    top: 210px;
+    left: 210px;
+}
